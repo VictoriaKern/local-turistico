@@ -1,7 +1,6 @@
 :root {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  
 
   font-weight: <weight>;
   font-style: normal;
@@ -9,7 +8,6 @@
 }
 
 * {
-    
 }
 
 body {
@@ -54,6 +52,11 @@ ol div {
   width: 1120px;
 }
 
+.divisor p {
+  text-align: center;
+  
+}
+
 footer {
   text-align: center;
 }
@@ -63,11 +66,17 @@ footer img {
 }
 
 .content-card ul li strong {
-  color: #0C51A7;
+  color: #0c51a7;
 }
 
 .purple {
-  color: #591B98;
+  color: #591b98;
 }
 
+.pink {
+  color: #e5245e;
+}
 
+.orange {
+  color: #e95e10;
+}
